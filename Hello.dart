@@ -7,4 +7,7 @@ main(List<String> arguments){ //entry point for execution
  }else{
   print('num is not integer');
  }
+ if(num == 34){
+  print(num);
+ }
 }
